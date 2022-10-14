@@ -1,0 +1,6 @@
+Python is a high-level programming
+general-purpose programming language programming
+Its design philosophy emphasizes code readability with programming
+the use of significant indentation.
+Python is data typed and garbage collected.
+programming garbage collected collected collected collected

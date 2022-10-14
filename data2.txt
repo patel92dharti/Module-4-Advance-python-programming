@@ -1,0 +1,16 @@
+-------------------------------What is Python--------------------------
+Python is a high-level,
+general-purpose programming language.
+Its design philosophy emphasizes code readability with
+the use of significant indentation.
+Python is dynamically-typed and garbage-collected.
+It supports multiple programming paradigms,
+including structured,
+object-oriented and functional programming.
+Wikipedia
+There are various ways to perform this operation:
+This is the text file we will read from:
+19-Aug-2022 —
+Write a Python program to read a random line from a file.
+Sample Solution:- Python Code: import random def random_line(fname):
+lines ...
